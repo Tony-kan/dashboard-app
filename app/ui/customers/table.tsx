@@ -12,6 +12,7 @@ export default async function CustomersTable({
 }: {
   customers: FormattedCustomersTable[];
 }) {
+  console.log('Customers : ', customers);
   return (
     <div className="w-full">
       {/* <h1 className={`${lusitana.className} mb-8 text-xl md:text-2xl`}>
