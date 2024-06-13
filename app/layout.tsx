@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   },
   description: 'The official Acme Dashboard a financial management app',
   metadataBase: new URL('https://nextjs-dashboard-app-eosin.vercel.app'),
+  icons:"/icons/logo.svg"
 };
 
 export default function RootLayout({
