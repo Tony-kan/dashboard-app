@@ -13,7 +13,7 @@ import { lusitana } from '@/app/ui/fonts';
 import { CreateCustomer } from '@/app/ui/customers/buttons';
 
 export const metadata: Metadata = {
-  title: 'Cutomers',
+  title: 'Customers',
 };
 
 export default async function page({
